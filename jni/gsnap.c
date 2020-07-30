@@ -44,7 +44,7 @@
 #include <sys/types.h>
 #include <linux/fb.h>
 #include <linux/kd.h>
-
+#include <sys/ioctl.h>
 #include <sys/socket.h>
 #include <sys/un.h>
 #include <pthread.h>
